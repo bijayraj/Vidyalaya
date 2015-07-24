@@ -91,6 +91,12 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Vidyalaya.WebUI\Vidyalaya.WebUI.csproj">
+      <Project>{25763808-0483-4e65-bfee-f08c27c8c95a}</Project>
+      <Name>Vidyalaya.WebUI</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
        Other similar extension points exist, see Microsoft.Common.targets.

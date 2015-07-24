@@ -5,7 +5,8 @@ using System.Text;
 using System.Web.Mvc;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Vidyalaya;
-using Vidyalaya.Controllers;
+using Vidyalaya.WebUI;
+using Vidyalaya.WebUI.Controllers;
 
 namespace Vidyalaya.Tests.Controllers
 {
