@@ -28,11 +28,11 @@ namespace Vidyalaya.WebUI
             //   consumerKey: "",
             //   consumerSecret: "");
 
-            //app.UseFacebookAuthentication(
-            //   appId: "",
-            //   appSecret: "");
+            app.UseFacebookAuthentication(
+               appId: "460137580825206",
+               appSecret: "");
 
-            //app.UseGoogleAuthentication();
+            app.UseGoogleAuthentication(clientId: "-nq90vhijsnjdtplr12n39rdaeprql98m.apps.googleusercontent.com", clientSecret: "");
         }
     }
 }
