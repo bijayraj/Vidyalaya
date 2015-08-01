@@ -1,0 +1,8 @@
+DEBUG 2015-08-01 10:57:21,831  2868ms MvcApplication         Application_Start  - Application Started
+DEBUG 2015-08-01 12:14:15,652  2155ms MvcApplication         Application_Start  - Application Started
+DEBUG 2015-08-01 12:26:49,787   749ms MvcApplication         Application_Start  - Application Started
+DEBUG 2015-08-01 12:31:05,582   483ms MvcApplication         Application_Start  - Application Started
+DEBUG 2015-08-01 12:34:23,540   266ms MvcApplication         Application_Start  - Application Started
+DEBUG 2015-08-01 12:38:39,390   501ms MvcApplication         Application_Start  - Application Started
+DEBUG 2015-08-01 12:41:11,691   528ms MvcApplication         Application_Start  - Application Started
+DEBUG 2015-08-01 12:51:41,814   577ms MvcApplication         Application_Start  - Application Started
